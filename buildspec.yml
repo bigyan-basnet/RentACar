@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo "No installation commands needed"
+  build:
+    commands:
+      - echo "No build commands needed"
+
+artifacts:
+  files:
+    - '**/*'
+  discard-paths: no
