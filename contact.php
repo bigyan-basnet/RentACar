@@ -1,8 +1,8 @@
 
 <?php
+include('header.php');
 require_once 'config.php';
 
-include('header.php');
 
 $con = mysqli_connect('localhost', 'root', '','car_rental_database');
 
