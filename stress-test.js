@@ -7,6 +7,6 @@ export let options = {
 };
 
 export default function () {
-  http.get('http://carshare-env.eba-xhpyenx6.ap-southeast-2.elasticbeanstalk.com/');
+  http.get('http://rentacar-env1.eba-bjpbvypm.ap-southeast-2.elasticbeanstalk.com/');
   sleep(1); // simulate user “think time”
 }
