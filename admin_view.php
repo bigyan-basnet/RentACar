@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="first-menu-group">
-            <a class="navbar-logo" href="admin_view.php">Ezy<span class="Rentals">Rental</span></a>
+            <a class="navbar-logo" href="index.php">Ezy<span class="Rentals">Rental</span></a>
         </div>
 
         <div class="middle-menu-group">
